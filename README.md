@@ -2,9 +2,6 @@
 
 Welcome to the React Weather App! This project provides real-time weather updates for any city or country using the OpenWeather API. Built with React and styled with Tailwind CSS, this app is designed to be sleek, responsive, and user-friendly.
 
-<img align="center" alt="Sample Preview" width="400" src="https://github.com/Megatron-XCoder/React_Weather_App/blob/main/public/Screenshot%202024-07-01%20020445.png">
-
-
 ### Features
 
 - **Real-time Weather Data :** Get current weather details including temperature, humidity, wind speed, and visibility.
